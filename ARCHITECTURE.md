@@ -50,3 +50,5 @@ graph TD
 - Replace Supabase free tier with dedicated Postgres on Render
 - Add CDN caching for public shareable audit pages
 - Instrument with PostHog for funnel analytics
+
+

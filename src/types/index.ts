@@ -37,6 +37,7 @@ export interface ToolRecommendation {
 
 export interface AuditResult {
   id: string
+  slug: string        
   input: AuditInput
   recommendations: ToolRecommendation[]
   totalMonthlySavings: number
